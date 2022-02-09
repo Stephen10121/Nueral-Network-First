@@ -1,0 +1,23 @@
+{
+  "name": "Nueral-Network-First",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec python nueral2.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen10121/Nueral-Network-First.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen10121/Nueral-Network-First/issues"
+  },
+  "homepage": "https://github.com/Stephen10121/Nueral-Network-First#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
